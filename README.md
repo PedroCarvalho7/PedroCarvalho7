@@ -8,11 +8,6 @@
 
 ---
 
-<!-- Seção: Certifications -->
-### 🎓 Certifications:
-<img src="https://img.shields.io/badge/CS50x-00A4D2?style=for-the-badge&logo=codeforces&logoColor=white" />
-
----
 
 <!-- Seção: Tech Stack -->
 ### 💻 Tech Stack:
