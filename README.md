@@ -1,13 +1,6 @@
 # Hi there 👋
 
----
 
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCarvalho7&langs_count=6&layout=compact&hide_border=true&theme=nord" alt="Top Langs" />
-</p>
-
----
 
 <!-- Seção: Socials -->
 ### 🌐 Socials:
